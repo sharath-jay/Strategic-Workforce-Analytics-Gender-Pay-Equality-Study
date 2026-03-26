@@ -1,0 +1,1 @@
+# Strategic-Workforce-Analytics-Gender-Pay-Equality-Study
