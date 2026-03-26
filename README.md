@@ -15,15 +15,15 @@ We have processed all data on employee compensation and generated an Excel file 
 
 Here is your task:
 
-- Create a 4th column (Equality class), classifying the equality score into 3 types:
-    - Fair (+-10)
-    - Unfair (<-10 AND >10)
-    - Highly Discriminative (<-20 AND >20)
+Create a 4th column (Equality class), classifying the equality score into 3 types:
+1. Fair (+-10)
+2. Unfair (<-10 AND >10)
+3. Highly Discriminative (<-20 AND >20)
 
 Examples:
 
-- 10 → Fair
-- 9 → Unfair
-- 30 → Highly Discriminative
+1. 10 → Fair
+2. 9 → Unfair
+3. 30 → Highly Discriminative
 
 Please find the Equality Table you need to edit in the resources.
